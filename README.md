@@ -5,4 +5,4 @@ This theme is based on the [vim-hybrid](https://github.com/w0ng/vim-hybrid) colo
 Enjoy 👽
 
 
-[screenshot](imgs/theme.png)
+![screenshot](imgs/theme.png)
