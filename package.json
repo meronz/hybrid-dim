@@ -1,0 +1,43 @@
+{
+    "name": "hybrid-dim",
+    "displayName": "Hybrid dim",
+    "publisher": "meronz",
+    "description": "Based on vim-hybrid.",
+    "version": "0.0.1",
+    "author": {
+        "name": "Salvatore Merone"
+    },
+    "readme": "README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/meronz/hybrid-dim"
+    },
+    "bugs": {
+        "url": "https://github.com/meronz/hybrid-dim/issues"
+    },
+    "homepage": "https://github.com/meronz/hybrid-dim",
+    "qna": "https://github.com/meronz/hybrid-dim/issues",
+    "keywords": [
+        "hybrid",
+        "theme",
+        "vim",
+        "meronz",
+        "dark",
+        "dim"
+    ],
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hybrid dim",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hybrid-dim-color-theme.json"
+            }
+        ]
+    }
+}
