@@ -4,4 +4,4 @@ This theme is based on the [vim-hybrid](https://github.com/w0ng/vim-hybrid) colo
 
 Enjoy 👽
 
-![screenshot](https://raw.githubusercontent.com/meronz/hybrid-dim/imgs/theme.png)
+![screenshot](https://raw.githubusercontent.com/meronz/hybrid-dim/main/imgs/theme.png)

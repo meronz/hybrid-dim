@@ -3,7 +3,7 @@
     "displayName": "Hybrid dim",
     "publisher": "meronz",
     "description": "Based on vim-hybrid.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "icon": "imgs/logo.png",
     "author": {
         "name": "Salvatore Merone"
