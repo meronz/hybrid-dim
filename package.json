@@ -4,6 +4,7 @@
     "publisher": "meronz",
     "description": "Based on vim-hybrid.",
     "version": "0.0.1",
+    "icon": "imgs/logo.png",
     "author": {
         "name": "Salvatore Merone"
     },
